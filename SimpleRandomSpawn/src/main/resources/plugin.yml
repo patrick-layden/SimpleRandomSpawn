@@ -1,0 +1,5 @@
+name: SimpleRandomSpawn
+main: regalowl.simplerandomspawn.SimpleRandomSpawn
+version: 0.01
+author: RegalOwl
+softdepend: [AutoProtect]

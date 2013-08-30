@@ -1,0 +1,7 @@
+x_start: -1000
+x_end: 1000
+z_start: -1000
+z_end: 1000
+message: Sending you to a random location...
+avoid_materials: FIRE,CACTUS
+allowed_biomes: FOREST,FOREST_HILLS,JUNGLE,JUNGLE_HILLS,PLAINS,RIVER,SWAMPLAND,TAIGA,TAIGA_HILLS
